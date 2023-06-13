@@ -1,0 +1,29 @@
+.modal-task{
+    width: 70%!important;
+}
+
+.ant-modal-content{
+    padding: 18px;
+    border-radius: 22px;
+}
+
+.ant-form-item-label{
+    line-height: 18px!important;
+}
+
+.ant-form-item label{
+    font-weight: 600;
+}
+
+.content-modal{
+    padding-top: 16px;
+}
+
+.ant-radio-wrapper{
+    border: 1px solid #d9d9d9;
+    padding: 4px 11px;
+    border-radius: 4px;
+    height: 40px;
+    line-height: 2!important;
+    width: 33%;
+}

@@ -1,0 +1,23 @@
+.btn-default{
+    border:none;
+    box-shadow: none;
+}
+
+.btn-primary{
+    color: #fff!important;
+    background: #ff754e!important;
+    border-color: #ff754e!important;
+}
+
+.ant-btn{
+    height: 40px!important;
+}
+
+.anticon{
+    vertical-align:0!important;
+
+}
+
+.icon-radio .anticon{
+    line-height: 2!important;
+}
